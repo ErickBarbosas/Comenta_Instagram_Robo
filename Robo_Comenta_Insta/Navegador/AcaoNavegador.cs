@@ -20,11 +20,15 @@ namespace Robo_Comenta_Insta.Navegador
 
 
         private static IWebDriver Driver;
-        protected By form = By.Id("react-root");
 
+        
+
+        protected By form = By.Id("react-root");
+        
         public void Login(string login)
         {
             Driver.FindElement(By.CssSelector("input[name='username']")).SendKeys(login);
+            
         }
 
         public void Senha(string senha)
@@ -41,11 +45,11 @@ namespace Robo_Comenta_Insta.Navegador
 
 
         }
-        public void AbrirPost(string post)
+        //public void AbrirPost(string post)
         {
             try
-            {
-                Driver = new ChromeDriver();
+            {   
+                Driver = new ChromeDriver("C:/Projetos/Robo_Comenta_Insta/Comenta_Instagram_Robo/Robo_Comenta_Insta/Webdriver");
                 Driver.Navigate().GoToUrl(post);
                 Thread.Sleep(10000);
             }

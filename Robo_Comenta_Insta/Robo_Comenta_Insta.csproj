@@ -97,13 +97,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Imagem\6b67cb8a166c0571c1290f205c513321.gif" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Imagem\menor_carregando.gif" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Imagem\YGgI.gif" />
+    <Content Include="Webdriver\chromedriver.exe" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">

@@ -1,0 +1,66 @@
+C:\Users\Erick Barbosa\source\repos\Robo_Comenta_Insta\Robo_Comenta_Insta\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\Erick Barbosa\source\repos\Robo_Comenta_Insta\Robo_Comenta_Insta\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\Erick Barbosa\source\repos\Robo_Comenta_Insta\Robo_Comenta_Insta\bin\Debug\nunit.engine.dll
+C:\Users\Erick Barbosa\source\repos\Robo_Comenta_Insta\Robo_Comenta_Insta\bin\Debug\nunit.engine.api.dll
+C:\Users\Erick Barbosa\source\repos\Robo_Comenta_Insta\Robo_Comenta_Insta\bin\Debug\nunit.engine.core.dll
+C:\Users\Erick Barbosa\source\repos\Robo_Comenta_Insta\Robo_Comenta_Insta\bin\Debug\Robo_Comenta_Insta.exe.config
+C:\Users\Erick Barbosa\source\repos\Robo_Comenta_Insta\Robo_Comenta_Insta\bin\Debug\Robo_Comenta_Insta.exe
+C:\Users\Erick Barbosa\source\repos\Robo_Comenta_Insta\Robo_Comenta_Insta\bin\Debug\Robo_Comenta_Insta.pdb
+C:\Users\Erick Barbosa\source\repos\Robo_Comenta_Insta\Robo_Comenta_Insta\bin\Debug\nunit.framework.dll
+C:\Users\Erick Barbosa\source\repos\Robo_Comenta_Insta\Robo_Comenta_Insta\bin\Debug\WebDriver.dll
+C:\Users\Erick Barbosa\source\repos\Robo_Comenta_Insta\Robo_Comenta_Insta\bin\Debug\WebDriver.Support.dll
+C:\Users\Erick Barbosa\source\repos\Robo_Comenta_Insta\Robo_Comenta_Insta\bin\Debug\nunit.framework.xml
+C:\Users\Erick Barbosa\source\repos\Robo_Comenta_Insta\Robo_Comenta_Insta\bin\Debug\WebDriver.xml
+C:\Users\Erick Barbosa\source\repos\Robo_Comenta_Insta\Robo_Comenta_Insta\bin\Debug\WebDriver.Support.xml
+C:\Users\Erick Barbosa\source\repos\Robo_Comenta_Insta\Robo_Comenta_Insta\obj\Debug\Robo_Comenta_Insta.csprojAssemblyReference.cache
+C:\Users\Erick Barbosa\source\repos\Robo_Comenta_Insta\Robo_Comenta_Insta\obj\Debug\Robo_Comenta_Insta.Properties.Resources.resources
+C:\Users\Erick Barbosa\source\repos\Robo_Comenta_Insta\Robo_Comenta_Insta\obj\Debug\Robo_Comenta_Insta.csproj.GenerateResource.cache
+C:\Users\Erick Barbosa\source\repos\Robo_Comenta_Insta\Robo_Comenta_Insta\obj\Debug\Robo_Comenta_Insta.csproj.CoreCompileInputs.cache
+C:\Users\Erick Barbosa\source\repos\Robo_Comenta_Insta\Robo_Comenta_Insta\obj\Debug\Robo_Comenta_Insta.csproj.CopyComplete
+C:\Users\Erick Barbosa\source\repos\Robo_Comenta_Insta\Robo_Comenta_Insta\obj\Debug\Robo_Comenta_Insta.exe
+C:\Users\Erick Barbosa\source\repos\Robo_Comenta_Insta\Robo_Comenta_Insta\obj\Debug\Robo_Comenta_Insta.pdb
+C:\Users\Erick Barbosa\source\repos\Robo_Comenta_Insta\Robo_Comenta_Insta\obj\Debug\Robo_Comenta_Insta.Principal.resources
+C:\Projetos\Robo_Comenta_Insta\Robo_Comenta_Insta\bin\Debug\NUnit3.TestAdapter.dll
+C:\Projetos\Robo_Comenta_Insta\Robo_Comenta_Insta\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Projetos\Robo_Comenta_Insta\Robo_Comenta_Insta\bin\Debug\nunit.engine.dll
+C:\Projetos\Robo_Comenta_Insta\Robo_Comenta_Insta\bin\Debug\nunit.engine.api.dll
+C:\Projetos\Robo_Comenta_Insta\Robo_Comenta_Insta\bin\Debug\nunit.engine.core.dll
+C:\Projetos\Robo_Comenta_Insta\Robo_Comenta_Insta\bin\Debug\Robo_Comenta_Insta.exe.config
+C:\Projetos\Robo_Comenta_Insta\Robo_Comenta_Insta\bin\Debug\Robo_Comenta_Insta.exe
+C:\Projetos\Robo_Comenta_Insta\Robo_Comenta_Insta\bin\Debug\Robo_Comenta_Insta.pdb
+C:\Projetos\Robo_Comenta_Insta\Robo_Comenta_Insta\bin\Debug\nunit.framework.dll
+C:\Projetos\Robo_Comenta_Insta\Robo_Comenta_Insta\bin\Debug\WebDriver.dll
+C:\Projetos\Robo_Comenta_Insta\Robo_Comenta_Insta\bin\Debug\WebDriver.Support.dll
+C:\Projetos\Robo_Comenta_Insta\Robo_Comenta_Insta\bin\Debug\nunit.framework.xml
+C:\Projetos\Robo_Comenta_Insta\Robo_Comenta_Insta\bin\Debug\WebDriver.xml
+C:\Projetos\Robo_Comenta_Insta\Robo_Comenta_Insta\bin\Debug\WebDriver.Support.xml
+C:\Projetos\Robo_Comenta_Insta\Robo_Comenta_Insta\obj\Debug\Robo_Comenta_Insta.csprojAssemblyReference.cache
+C:\Projetos\Robo_Comenta_Insta\Robo_Comenta_Insta\obj\Debug\Robo_Comenta_Insta.Principal.resources
+C:\Projetos\Robo_Comenta_Insta\Robo_Comenta_Insta\obj\Debug\Robo_Comenta_Insta.Properties.Resources.resources
+C:\Projetos\Robo_Comenta_Insta\Robo_Comenta_Insta\obj\Debug\Robo_Comenta_Insta.csproj.GenerateResource.cache
+C:\Projetos\Robo_Comenta_Insta\Robo_Comenta_Insta\obj\Debug\Robo_Comenta_Insta.csproj.CoreCompileInputs.cache
+C:\Projetos\Robo_Comenta_Insta\Robo_Comenta_Insta\obj\Debug\Robo_Comenta_Insta.csproj.CopyComplete
+C:\Projetos\Robo_Comenta_Insta\Robo_Comenta_Insta\obj\Debug\Robo_Comenta_Insta.exe
+C:\Projetos\Robo_Comenta_Insta\Robo_Comenta_Insta\obj\Debug\Robo_Comenta_Insta.pdb
+C:\Projetos\Robo_Comenta_Insta\Comenta_Instagram_Robo\Robo_Comenta_Insta\bin\Debug\NUnit3.TestAdapter.dll
+C:\Projetos\Robo_Comenta_Insta\Comenta_Instagram_Robo\Robo_Comenta_Insta\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Projetos\Robo_Comenta_Insta\Comenta_Instagram_Robo\Robo_Comenta_Insta\bin\Debug\nunit.engine.dll
+C:\Projetos\Robo_Comenta_Insta\Comenta_Instagram_Robo\Robo_Comenta_Insta\bin\Debug\nunit.engine.api.dll
+C:\Projetos\Robo_Comenta_Insta\Comenta_Instagram_Robo\Robo_Comenta_Insta\bin\Debug\nunit.engine.core.dll
+C:\Projetos\Robo_Comenta_Insta\Comenta_Instagram_Robo\Robo_Comenta_Insta\bin\Debug\Robo_Comenta_Insta.exe.config
+C:\Projetos\Robo_Comenta_Insta\Comenta_Instagram_Robo\Robo_Comenta_Insta\bin\Debug\Robo_Comenta_Insta.exe
+C:\Projetos\Robo_Comenta_Insta\Comenta_Instagram_Robo\Robo_Comenta_Insta\bin\Debug\Robo_Comenta_Insta.pdb
+C:\Projetos\Robo_Comenta_Insta\Comenta_Instagram_Robo\Robo_Comenta_Insta\bin\Debug\nunit.framework.dll
+C:\Projetos\Robo_Comenta_Insta\Comenta_Instagram_Robo\Robo_Comenta_Insta\bin\Debug\WebDriver.dll
+C:\Projetos\Robo_Comenta_Insta\Comenta_Instagram_Robo\Robo_Comenta_Insta\bin\Debug\WebDriver.Support.dll
+C:\Projetos\Robo_Comenta_Insta\Comenta_Instagram_Robo\Robo_Comenta_Insta\bin\Debug\nunit.framework.xml
+C:\Projetos\Robo_Comenta_Insta\Comenta_Instagram_Robo\Robo_Comenta_Insta\bin\Debug\WebDriver.xml
+C:\Projetos\Robo_Comenta_Insta\Comenta_Instagram_Robo\Robo_Comenta_Insta\bin\Debug\WebDriver.Support.xml
+C:\Projetos\Robo_Comenta_Insta\Comenta_Instagram_Robo\Robo_Comenta_Insta\obj\Debug\Robo_Comenta_Insta.csprojAssemblyReference.cache
+C:\Projetos\Robo_Comenta_Insta\Comenta_Instagram_Robo\Robo_Comenta_Insta\obj\Debug\Robo_Comenta_Insta.Principal.resources
+C:\Projetos\Robo_Comenta_Insta\Comenta_Instagram_Robo\Robo_Comenta_Insta\obj\Debug\Robo_Comenta_Insta.Properties.Resources.resources
+C:\Projetos\Robo_Comenta_Insta\Comenta_Instagram_Robo\Robo_Comenta_Insta\obj\Debug\Robo_Comenta_Insta.csproj.GenerateResource.cache
+C:\Projetos\Robo_Comenta_Insta\Comenta_Instagram_Robo\Robo_Comenta_Insta\obj\Debug\Robo_Comenta_Insta.csproj.CoreCompileInputs.cache
+C:\Projetos\Robo_Comenta_Insta\Comenta_Instagram_Robo\Robo_Comenta_Insta\obj\Debug\Robo_Comenta_Insta.csproj.CopyComplete
+C:\Projetos\Robo_Comenta_Insta\Comenta_Instagram_Robo\Robo_Comenta_Insta\obj\Debug\Robo_Comenta_Insta.exe
+C:\Projetos\Robo_Comenta_Insta\Comenta_Instagram_Robo\Robo_Comenta_Insta\obj\Debug\Robo_Comenta_Insta.pdb
