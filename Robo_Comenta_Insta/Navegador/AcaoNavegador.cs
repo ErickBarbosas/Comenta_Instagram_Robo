@@ -16,40 +16,57 @@ namespace Robo_Comenta_Insta.Navegador
     {
         private static int Falhas = 0;
         private static int Feitas = 0;
-        
-
-
+     
         private static IWebDriver Driver;
-
-        
-
         protected By form = By.Id("react-root");
         
-        public void Login(string login)
-        {
-            Driver.FindElement(By.CssSelector("input[name='username']")).SendKeys(login);
-            
-        }
 
-        public void Senha(string senha)
-        {
-            Driver.FindElement(By.CssSelector("input[name='password']")).SendKeys(senha);
-
-
-        }
-
-
-        public void ClickLogar()
-        {
-            Driver.FindElement(By.CssSelector("button[type='submit']")).Click(); ;
-
-
-        }
-        //public void AbrirPost(string post)
+        public void Fazerlogin(string login, string senha)
         {
             try
-            {   
+            {
+
+            //Clicando no botão Entrar
+            Driver.FindElement(By.CssSelector("button[type='button']")).Click();
+            //Digitando Login 
+            Driver.FindElement(By.CssSelector("input[name='username']")).SendKeys(login);
+            //Digitando A senha
+            Driver.FindElement(By.CssSelector("input[name='password']")).SendKeys(senha);
+            //Clicando botão entrar
+            Driver.FindElement(By.CssSelector("button[type='submit']")).Click();
+            //
+            Driver.FindElement(By.XPath("//button[text()='Agora não']")).Click();
+
+            }
+            catch { }
+
+        }
+        //public void Login(string login)
+        //{
+        //    Driver.FindElement(By.CssSelector("input[name='username']")).SendKeys(login);
+            
+        //}
+
+        //public void Senha(string senha)
+        //{
+        //    Driver.FindElement(By.CssSelector("input[name='password']")).SendKeys(senha);
+
+
+        //}
+
+
+        //public void ClickLogar()
+        //{
+        //    Driver.FindElement(By.CssSelector("button[type='submit']")).Click(); ;
+
+
+        //}
+        public void AbrirPost(string post)
+        {
+            try
+            {   //Local Do Chrome Driver
                 Driver = new ChromeDriver("C:/Projetos/Robo_Comenta_Insta/Comenta_Instagram_Robo/Robo_Comenta_Insta/Webdriver");
+                //Abrindo o post
                 Driver.Navigate().GoToUrl(post);
                 Thread.Sleep(10000);
             }
@@ -62,36 +79,36 @@ namespace Robo_Comenta_Insta.Navegador
 
      
 
-        public void logarUser(string user, string password)
-        {
+        //public void logarUser(string user, string password)
+        //{
 
-            try
-            {
-                ClickPaginaLogin();
-                Thread.Sleep(10000);
+        //    try
+        //    {
+        //        ClickPaginaLogin();
+        //        Thread.Sleep(10000);
 
-                Login(user);
+        //        Login(user);
 
-                Senha(password);
+        //        Senha(password);
                 
 
-                ClickLogar();
-                Thread.Sleep(10000);
+        //        ClickLogar();
+        //        Thread.Sleep(10000);
 
-               ClickResposta();
-                Thread.Sleep(10000);
-
-               
-            }
-            catch (Exception e)
-            {
-                // MessageBox.Show("Erro ao Tentar Logar: \n\n" + e);
+        //       ClickResposta();
+        //        Thread.Sleep(10000);
 
                
-            }
+        //    }
+        //    catch (Exception e)
+        //    {
+        //        // MessageBox.Show("Erro ao Tentar Logar: \n\n" + e);
+
+               
+        //    }
 
 
-        }
+        //}
         
 
         public void setContaFalhas()
@@ -137,10 +154,6 @@ namespace Robo_Comenta_Insta.Navegador
         }
 
 
-
-
-
-
         public void CurtirPost()
         {
             
@@ -173,8 +186,6 @@ namespace Robo_Comenta_Insta.Navegador
             }
         }
 
-
-       
 
 
         public void FecharNavegados()

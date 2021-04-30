@@ -289,7 +289,7 @@ namespace Robo_Comenta_Insta
 
                     Nav.AbrirPost(UrlPost);
 
-                    Nav.logarUser(Login, Senha);
+                    Nav.Fazerlogin(Login, Senha);
                     
                     while (i < separadorComentario.Length)
                     {
@@ -314,7 +314,7 @@ namespace Robo_Comenta_Insta
                             Nav.FecharNavegados();
                             Thread.Sleep(bloqueio);
                             Nav.AbrirPost(UrlPost);
-                            Nav.logarUser(Login, Senha);
+                            Nav.Fazerlogin(Login, Senha);
 
 
                         }
